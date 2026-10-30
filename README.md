@@ -86,7 +86,7 @@ Recent security research has highlighted critical vulnerabilities in MCP tools, 
 ### **For Operations Teams**
 1. **Secure Deployment**: Use [MCP Operations Expert](https://github.com/ModelContextProtocol-Security/mcpserver-operator)
 2. **Operational Security**: Follow our [Operations Guide](https://modelcontextprotocol-security.io/operations/)
-3. **Find Secure Servers**: Discover vetted servers with [MCP Discovery Expert](https://github.com/ModelContextProtocol-Security/mcpserver-finder)
+3. **Evaluate Candidate Servers**: Use [MCP Discovery Expert](https://github.com/ModelContextProtocol-Security/mcpserver-finder) to identify and compare potential servers. This project is a proof of concept, not a source of security-vetted approvals; independently check each server's code, permissions, maintenance, and dependencies before deployment.
 
 ## Contributing
 
